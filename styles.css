@@ -1,0 +1,27 @@
+.grid {
+  width: 606px;
+  height: 606px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.poen {
+  color: rgb(140, 162, 127);
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(140, 162, 127);
+}
+
+.square{
+  height: 200px;
+  width: 200px;
+  border: solid black 1px;
+}
+
+.mole {
+  background-image: url('mole.jpg');
+  background-size: cover;
+  border-radius: 50%;
+}
